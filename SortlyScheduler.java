@@ -1,3 +1,6 @@
+//Student Names : Suhaim Alhajeri, Mishari Almulaifi , Abdullah Abdullah 
+//Student IDs : 2231121808, 2231167795, 2231153435
+
 import java.util.Scanner;
 import java.util.Arrays;
 
